@@ -10,6 +10,7 @@ ACHTUNG: Die ASV wird im August 2025 eine neue Schnittstelle "Export für eine N
   * Export für eine Notenverwaltung durchführen.
   * Die dabei entstehende ZIP-Datei mithilfe des generierten Passworts in Schritt 1 entpacken.
   * Diese export.xml in den Ordner kopieren, in der die asv2jamf.py liegt.
+  * asv2jamf.py im Texteditor öffnen. E-Mail-Domäne anpassen. Eventuell will man bei den Fächern, die an der eigenen Schule klassenübergreifend unterrichtete werden oder evtl. sogar jahrgangsstufenübergreifend sind, noch etwas ändern.
   * Benötigte Bibliotheken installieren. Siehe requirements.txt
   * Im Terminal: python3 asv2jamf.py 
   * Fehlermeldungen überprüfen.
