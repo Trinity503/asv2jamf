@@ -4,7 +4,8 @@ In JAMF school lässt sich eine CSV-Datei mit dem Benutzerdaten importieren. Die
 
 Ein direkter Export der benötigten Unterrichte aus der ASV ist mir nicht gelungen. Dieses Tool wandelt die Daten aus "Export für eine Notenverwaltung" entsprechend um, wie wir sie an unserer Schule brauchen. Jede Schule wird ein wenig andere Anforderungen haben, aber dann ist dieser Code als Basis vielleicht hilfreich.
 
-[!ACHTUNG: Die ASV wird im August 2025 eine neue Schnittstelle "Export für eine Notenverwaltung" veröffentlichen. Dann wird dieses Programm umprogrammiert werden müssen. Vielleicht noch schnell mit der alten "Export für eine Notenverwaltung" einen Export machen. Aktuelle Version 1.01, geplante Version 1.02.]
+[!WARNING]
+Die ASV wird im August 2025 eine neue Schnittstelle "Export für eine Notenverwaltung" veröffentlichen. Dann wird dieses Programm umprogrammiert werden müssen. Vielleicht noch schnell mit der alten "Export für eine Notenverwaltung" einen Export machen. Aktuelle Version 1.01, geplante Version 1.02.
 
 ## Verwendung ##
   * Export für eine Notenverwaltung durchführen.
