@@ -1,10 +1,6 @@
 #ToDo:
-#Wenn nur eine Klassengruppe, dann Mathe, Physik etc auch nicht teilen.
-#Beim Unterrichtselement die Teile vor und nach dem Backslash tauschen.
 #unterrichtselemente und fächer als globale listen erstellen
 #code cleanup
-#Anleitung: Nacharbeiten bei klassenübergreifenden bzw. jahrgangsstufenübergreifenden Koppeln
-
 
 import pandas as pd
 from lxml import etree
